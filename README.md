@@ -1,3 +1,3 @@
 # netflix-clone-msd
 Netflix clone developed by HTML and CSS.
-visit to the website https://netflix-clone-msd.netlify.app/
+visit to the website https://netflix-clone-ms.netlify.app/
